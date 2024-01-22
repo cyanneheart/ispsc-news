@@ -1,0 +1,24 @@
+[
+    {
+      "news_id": 1,
+      "news_title": "Enrollment Schedule for Spring Semester 2024",
+      "news_content": "Enrollment for the upcoming Spring Semester will start on January 30, 2024, and will end on February 10, 2024. Please ensure to complete all necessary requirements.",
+      "news_image": "enrollment_image.jpg",
+      "date_posted": "2024-01-15 09:00:00"
+    },
+    {
+      "news_id": 2,
+      "news_title": "Start of Classes Announcement",
+      "news_content": "The classes for the Spring Semester 2024 will commence on February 20, 2024. Make sure to attend the orientation sessions and be prepared for an exciting academic term.",
+      "news_image": "classes_start_image.jpg",
+      "date_posted": "2024-02-10 15:30:00"
+    },
+    {
+      "news_id": 3,
+      "news_title": "Examination Schedule Released",
+      "news_content": "The examination schedule for the Spring Semester 2024 has been released. Examinations will take place from April 10 to April 25, 2024. Ensure timely preparation and best of luck!",
+      "news_image": "exam_schedule_image.jpg",
+      "date_posted": "2024-03-01 11:45:00"
+    }
+  ]
+  
