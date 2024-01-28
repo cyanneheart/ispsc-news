@@ -7,6 +7,7 @@ import Contacts from './pages/Contacts';
 import About from './pages/About';
 import Footer from './components/Footer';
 import NotFound from './pages/NotFound';
+import News from './pages/News'
 
 const App = () => {
   return (
@@ -18,7 +19,7 @@ const App = () => {
           <Route path="/contacts" element={<Contacts />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
-
+          <Route path="news/:id" element={<News />}/>
         </Routes>
         <Footer></Footer>
       </div>

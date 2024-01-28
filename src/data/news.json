@@ -1,24 +1,72 @@
 [
-    {
-      "news_id": 1,
-      "news_title": "Enrollment Schedule for Spring Semester 2024",
-      "news_content": "Enrollment for the upcoming Spring Semester will start on January 30, 2024, and will end on February 10, 2024. Please ensure to complete all necessary requirements.",
-      "news_image": "enrollment_image.jpg",
-      "date_posted": "2024-01-15 09:00:00"
-    },
-    {
-      "news_id": 2,
-      "news_title": "Start of Classes Announcement",
-      "news_content": "The classes for the Spring Semester 2024 will commence on February 20, 2024. Make sure to attend the orientation sessions and be prepared for an exciting academic term.",
-      "news_image": "classes_start_image.jpg",
-      "date_posted": "2024-02-10 15:30:00"
-    },
-    {
-      "news_id": 3,
-      "news_title": "Examination Schedule Released",
-      "news_content": "The examination schedule for the Spring Semester 2024 has been released. Examinations will take place from April 10 to April 25, 2024. Ensure timely preparation and best of luck!",
-      "news_image": "exam_schedule_image.jpg",
-      "date_posted": "2024-03-01 11:45:00"
-    }
-  ]
-  
+  {
+    "news_id": 1,
+    "news_title": "Enrollment Schedule for Semester 2024",
+    "news_content": "Enrollment for the upcoming Semester will start on January 5, 2024, and will end on February 9, 2024. Please ensure to complete all necessary requirements.",
+    "news_image": "https://cdn.discordapp.com/attachments/1176097412364894220/1200960693483098162/schedule.jpg",
+    "date_posted": "2024-01-15 09:00:00"
+  },
+  {
+    "news_id": 2,
+    "news_title": "Start of Semester 2024",
+    "news_content": "Welcome back! The Semester 2024 is set to commence on February 20, 2024. Get ready for an exciting academic term filled with learning and opportunities.",
+    "news_image": null,
+    "date_posted": "2024-02-05 11:30:00"
+  },
+  {
+    "news_id": 3,
+    "news_title": "Important Reminders for Second Semester Enrollment",
+    "news_content": "As enrollment for the second semester approaches, please review the guidelines and ensure all necessary documents are prepared. Contact the registrar's office for assistance.",
+    "news_image": null,
+    "date_posted": "2024-01-25 14:15:00"
+  },
+  {
+    "news_id": 4,
+    "news_title": "Orientation Sessions for Semester",
+    "news_content": "To kick off the Semester, orientation sessions will be held on February 18, 2024. Attend to familiarize yourself with campus updates, academic expectations, and resources.",
+    "news_image": "https://bitress.xyz/img/ispsc.jpg",
+    "date_posted": "2024-02-12 10:00:00"
+  },
+  {
+    "news_id": 5,
+    "news_title": "Late Enrollment Requests",
+    "news_content": "If you missed the initial enrollment period, late enrollment requests will be accepted until February 15, 2024. Be sure to contact the registrar's office for guidance on the process.",
+    "news_image": null,
+    "date_posted": "2024-02-01 13:45:00"
+  },
+  {
+    "news_id": 6,
+    "news_title": "Course Add/Drop Period Reminder",
+    "news_content": "The course add/drop period for the Semester will be open from February 21 to February 28, 2024. Make adjustments to your schedule as needed during this time.",
+    "news_image": null,
+    "date_posted": "2024-02-18 08:30:00"
+  },
+  {
+    "news_id": 7,
+    "news_title": "Financial Aid Application Deadline",
+    "news_content": "If you are applying for financial aid for the Semester, the deadline is February 10, 2024. Ensure all required documents are submitted to the financial aid office.",
+    "news_image": null,
+    "date_posted": "2024-01-28 12:00:00"
+  },
+  {
+    "news_id": 8,
+    "news_title": "Second Semester Class Schedule Released",
+    "news_content": "The class schedule for the second semester is now available. Review your schedule and reach out to the academic advising office if you have any conflicts or concerns.",
+    "news_image": null,
+    "date_posted": "2024-02-03 09:45:00"
+  },
+  {
+    "news_id": 9,
+    "news_title": "Important Dates for Semester 2024",
+    "news_content": "Mark your calendars! Check the school website for a list of important dates for the Semester, including exams, holidays, and special events.",
+    "news_image": null,
+    "date_posted": "2024-02-15 14:30:00"
+  },
+  {
+    "news_id": 10,
+    "news_title": "Graduation Information Session",
+    "news_content": "Attention graduating students! An information session regarding graduation requirements and commencement ceremonies will be held on February 25, 2024. Don't miss out on this important session.",
+    "news_image": null,
+    "date_posted": "2024-02-20 11:00:00"
+  }
+]

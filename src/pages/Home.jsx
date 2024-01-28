@@ -2,9 +2,10 @@ import  { useEffect, useState } from 'react';
 import './Home.css';
 import Section from '../components/Section';
 import newsJSON from '../data/news.json';
+import { Link } from 'react-router-dom';
 
 function Home() {
-  const itemsPerPage = 2; 
+  const itemsPerPage = 4; 
   const [currentPage, setCurrentPage] = useState(1);
   const [newsData, setNewsData] = useState([]);
 
@@ -41,12 +42,16 @@ function Home() {
                 <div className="blog" key={newsItem.news_id}>
                   <div className="blog-content">
                     <h4>
-                      <a href={`news.php?id=${newsItem.news_id}`}>{newsItem.news_title}</a>
-                    </h4>
+                    <Link to={`news/${newsItem.news_id}`}>
+        {newsItem.news_title}
+      </Link>                    </h4>
                     <p className="inline-content">
-                      <img className="blog-image" src={newsItem.news_image} alt="Dummy Image" />
-                      {newsItem.news_content}
+                      {newsItem.news_image ? (
+                         <img className="blog-image" src={newsItem.news_image} alt="Dummy Image" />
+                         ) : null}
+                         {newsItem.news_content}
                     </p>
+
                     <p style={{ float: 'right' }}>
                       <i className="fal fa-calendar"></i> {new Date(newsItem.date_posted).toDateString()}
                     </p>
